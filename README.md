@@ -7,7 +7,7 @@
 Emulator builds for Windows, Linux, and Mac.**
 
 <sub>**GRID0+:** Replaces NSO functionality for online matchmaking, Splatfests, and in-game progression.</sub><br>
-<sub>Works for cross-play with banned switch users. Runs on custom servers. More info at [GRID0+](https://github.com/GRID0-net/GRID0).</sub>
+<sub>Works for cross-play with banned switch users. Runs on custom servers. More info at [GRID0+](https://github.com/GRID0-net/GRID0).</sub><br>
 <sub>**GRID0:** Replaces the old LAN-play relays with better stability, faster speeds, and an easier setup.</sub><br>
 <sub>Works for cross-play with unbanned and banned switch users. Runs on ZeroTier. More info at [GRID0](https://github.com/GRID0-net/GRID0).</sub>
 
