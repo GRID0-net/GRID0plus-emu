@@ -103,12 +103,16 @@ graph TD
 
 ## Setup Guide
 
+The GRID0+ emulator builds run on your PC with GRID0+ support built in. Follow the steps below to connect.
+
 1. Download [Citron](https://github.com/GRID0-net/GRID0-citron/releases/latest) or [Ryujinx](https://github.com/GRID0-net/GRID0-ryujinx/releases/latest) from the Releases tab.
 2. Click the GRID0+ tab and connect with the credentials from the bot.
 3. Open the GRID0+ menu, if you see yourself and your friends, start the game.
 4. Set your network interface in the network settings or it might not be picked automatically.
 
 That's it, nothing else is needed.
+
+Then just start the game and play with your friends on GRID0+!
 
 ---
 
