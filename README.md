@@ -103,25 +103,14 @@ graph TD
 
 ## Setup Guide
 
-Runs directly on the console as a background sysmodule. No PC or phone required while playing.
+1. Download one of the two available builds: [Citron](https://github.com/GRID0-net/GRID0-citron/releases/latest) or [Ryujinx](https://github.com/GRID0-net/GRID0-ryujinx/releases/latest), whichever you prefer.
+2. Once it's downloaded, click the GRID0+ tab and connect with the credentials given by the bot.
+3. Open the GRID0+ menu, you should see yourself and your friends. If you do, you may start the game.
+4. Don't forget to set your network interface in the network settings or else it might not be selected automatically!
 
-1. Download the latest release from the **[GRID0+ cfw](https://github.com/GRID0-net/GRID0plus-cfw/)** repository.
-2. Extract the archive to the root of your SD card.
+That's all for the emulator setup, nothing else is needed.
 
-[image: the SD card root with the extracted sys-GRID0 folders in place]
-
-**GRID0:**
-3. Reboot into Atmosphere, (temporary step) Currently the network id isnt included with the release, so in ultrahand, insert the following network id on the sys-zerotier page (name is also not yet updated) : 8bd5124fd68185ec
-4. Verify connection status using the Tesla (or Ultrahand) overlay menu.
-
-[image: the Tesla overlay open on the Switch showing the sys-GRID0 connection status]
-
-**GRID0+:**
-3. Reboot into Atmosphere, open the HomeBrew Menu (Album), open the GRID0+ Toolbox and select Change to GRID0+ mode.
-4. After your switch restarts, head to Settings > Users > Add A User > Not With Me > Yes, Had an Account > Link Account > Sign Into Your GRID0+ account using your Discord username and password from the bot.
-5. Verify connection status using the Tesla (or Ultrahand) overlay menu.
-
-[image: the Tesla overlay open on the Switch showing the sys-GRID0 connection status]
+If you encounter any issues while setting everything up, please report them on Discord.
 
 ---
 
