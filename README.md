@@ -103,14 +103,12 @@ graph TD
 
 ## Setup Guide
 
-1. Download one of the two available builds: [Citron](https://github.com/GRID0-net/GRID0-citron/releases/latest) or [Ryujinx](https://github.com/GRID0-net/GRID0-ryujinx/releases/latest), whichever you prefer.
-2. Once it's downloaded, click the GRID0+ tab and connect with the credentials given by the bot.
-3. Open the GRID0+ menu, you should see yourself and your friends. If you do, you may start the game.
-4. Don't forget to set your network interface in the network settings or else it might not be selected automatically!
+1. Download [Citron](https://github.com/GRID0-net/GRID0-citron/releases/latest) or [Ryujinx](https://github.com/GRID0-net/GRID0-ryujinx/releases/latest) from the Releases tab.
+2. Click the GRID0+ tab and connect with the credentials from the bot.
+3. Open the GRID0+ menu, if you see yourself and your friends, start the game.
+4. Set your network interface in the network settings or it might not be picked automatically.
 
-That's all for the emulator setup, nothing else is needed.
-
-If you encounter any issues while setting everything up, please report them on Discord.
+That's it, nothing else is needed.
 
 ---
 
